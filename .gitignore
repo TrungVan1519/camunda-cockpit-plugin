@@ -1,0 +1,5 @@
+.settings/
+.vscode/
+./frontend/node_modules/
+.classpath
+.project

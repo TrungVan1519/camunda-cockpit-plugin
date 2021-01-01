@@ -1,0 +1,4 @@
+org\camunda\bpm\cockpit\plugin\sample\resources\SamplePluginRootResource.class
+org\camunda\bpm\cockpit\plugin\sample\db\ProcessInstanceCountDto.class
+org\camunda\bpm\cockpit\plugin\sample\resources\ProcessInstanceResource.class
+org\camunda\bpm\cockpit\plugin\sample\SamplePlugin.class
